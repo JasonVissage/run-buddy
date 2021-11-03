@@ -250,7 +250,7 @@ h3 {
 /* REACH OUT STYLES START */
 
 .contact {
-    background-color: #024e76;
+    background: #024e76;
     text-align: center;
 }
 
@@ -272,3 +272,20 @@ h3 {
     color: white;
 }
 
+.contact-info h3 {
+    color: #fce138;
+    font-size: 32px;
+}
+
+.contact-info p, 
+.contact-info address {
+    margin: 20px 0;
+    line-height: 1.5;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.contact-info a {
+    color: #fce138;
+}
+/* REACH OUT STYLES END */
